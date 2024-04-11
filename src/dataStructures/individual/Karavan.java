@@ -1,4 +1,4 @@
-package datas.individual;
+package dataStructures.individual;
 
 import java.io.*;
 import java.util.LinkedList;

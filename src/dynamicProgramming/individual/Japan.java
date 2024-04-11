@@ -1,4 +1,4 @@
-package dynamicProgramming.individ;
+package dynamicProgramming.individual;
 
 import java.io.*;
 import java.math.BigInteger;

@@ -1,4 +1,4 @@
-package datas;
+package dataStructures;
 
 import java.io.*;
 import java.util.ArrayList;
