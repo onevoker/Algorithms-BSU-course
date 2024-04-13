@@ -86,7 +86,6 @@ public class Karavan {
     }
 }
 
-
 class Coordinate {
     private final int x;
     private final int y;
